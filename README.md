@@ -1,4 +1,3 @@
-# web-dev-ass-1
 # sudoku-website
 
 
@@ -56,5 +55,6 @@ Approximately **5 hours per member**.
 - I did not copy any code directly from online sources.
 - The layout and styling were implemented from scratch using HTML and CSS (no external CSS frameworks or JavaScript libraries).
 - Fonts are system fonts, and any icons/images were created by us or included as static assets.
+
 
 
