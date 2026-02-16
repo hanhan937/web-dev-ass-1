@@ -7,6 +7,7 @@ Deployed with **GitHub Pages**.
 ## Deliverables
 - Website: [https://hanhan937.github.io/web-dev-ass-1/]
 - Repo: [https://github.com/hanhan937/web-dev-ass-1]
+- Video Walkthrough: [https://drive.google.com/file/d/1Kg4jMSk6iMUNh4BIMrsyF8sQBUJy7XqS/view?usp=sharing]
 - Collaborators：[ Hanhan Guo; Jiaju Zhang; Yiwen Hu]
 
 
